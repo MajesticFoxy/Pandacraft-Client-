@@ -1,2 +1,3 @@
-# Pandacraft-Client-
-Pandacraft mcp
+# Pandacraft Client
+
+Mcp of Pandacraft launcher
